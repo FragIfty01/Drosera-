@@ -74,7 +74,7 @@ This one-click installer:
 Run the following in your VPS:
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/yourusername/yourrepo/main/setup.sh -o setup.sh
+curl -fsSL https://raw.githubusercontent.com/FragIfty01/Drosera-/main/setup.sh -o setup.sh
 chmod +x setup.sh
 ./setup.sh
 ```
