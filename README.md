@@ -27,7 +27,7 @@ No manual editing, no confusion—just run, answer prompts, and you’re live on
 - Rent VPS10 ($4.95/month)
 - Choose Ubuntu 24.04 (64-bit)
 - Save your server password safely
-- Connect using `ssh root@ip`
+- Connect using SSH
 
 ```bash
 ssh root@your_vps_ip
