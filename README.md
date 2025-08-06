@@ -1,5 +1,9 @@
 # 🚀 One Click Drosera Trap & Operator Install (Docker)
 
+![Image](https://github.com/user-attachments/assets/0458cd13-e731-45b6-a18f-9abf7b51bdf3)
+
+---
+
 Automate the setup and background running of your **Drosera Trap** and **Operator** on Ubuntu 24.04+ with a single script.  
 No manual editing, no confusion—just run, answer prompts, and you’re live on the Hoodi Testnet.
 
